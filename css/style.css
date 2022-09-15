@@ -1,0 +1,31 @@
+* {
+    color: rgb(13, 13, 14);
+}
+
+h1,h2 {
+    color: red;
+}
+
+h3,h4,h5,h6 {
+    color: rgb(255, 127, 127);
+}
+
+a {
+    color: rgb(6, 131, 153);
+}
+
+li a {
+    color: red;
+}
+
+.about article {
+    color:brown;
+}
+
+footer ul li {
+    color:blue;
+}
+
+footer p {
+    color:rgb(6, 131, 153)
+}
